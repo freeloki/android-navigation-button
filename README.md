@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.com/freeloki/android-navigation-button.svg?branch=master)](https://travis-ci.com/freeloki/android-navigation-button)
+<img align="right"  src="https://travis-ci.com/freeloki/android-navigation-button.svg?branch=master">
 
-
-# android-navigation-button
+# Android Navigation Button
 Easy to use, configurable navigation button.
