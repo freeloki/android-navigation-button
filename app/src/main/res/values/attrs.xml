@@ -1,0 +1,21 @@
+<resources>
+
+    <declare-styleable name="NavigationButton">
+        <attr name="innerCircleColor" format="color" />
+        <attr name="outerCircleColor" format="color" />
+        <attr name="outerCircleRadius" format="integer"></attr>
+        <attr name="innerCircleRadius" format="integer"></attr>
+        <attr name="innerCircleTransparency" format="integer"></attr>
+        <attr name="outerCircleTransparency" format="integer"></attr>
+        <attr name="outerDotsRadius" format="integer"></attr>
+        <attr name="innerDotRadius" format="integer"></attr>
+        <attr name="dotTransparency" format="integer"></attr>
+        <attr name="outerDotsColor" format="color"></attr>
+        <attr name="innerDotColor" format="color"></attr>
+        <attr name="lineColor" format="color"></attr>
+        <attr name="lineStroke" format="integer"></attr>
+        <attr name="lineTransparency" format="integer"></attr>
+        <attr name="clickAnimation" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
